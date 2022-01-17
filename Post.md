@@ -8,3 +8,8 @@ Add next line
 Some random text to check
 
 ## One mroe heading
+
+<ul>
+  <li>First</li>
+  <li>Second</li>
+</ul>
