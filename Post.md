@@ -13,3 +13,5 @@ Some random text to check
   <li>First</li>
   <li>Second</li>
 </ul>
+
+## Added new heading
