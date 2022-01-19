@@ -32,6 +32,12 @@ In this blog we will look into how <i>Postgres</i> works? Check [References](#re
 
 > What am I supposed to write here?
 
+Vertical image
+
+![Screenshot 2021-09-09 at 12 25 18 PM](https://user-images.githubusercontent.com/1950768/150074748-d7434b57-d639-4264-ab1e-a66a1e05b54b.png)
+
+
+
 
 ## References
 
