@@ -40,13 +40,17 @@ Vertical image
 Image with image-tag and caption
 
 
+<figure>
 <img src="https://user-images.githubusercontent.com/1950768/150074748-d7434b57-d639-4264-ab1e-a66a1e05b54b.png" class="kg-image" alt="Its a Login Page" loading="lazy">
 <figcaption>Its a Login Page</figcaption>
+  </figure>
 
 
 ```HTML
-<img src="https://user-images.githubusercontent.com/1950768/150074748-d7434b57-d639-4264-ab1e-a66a1e05b54b.png" class="kg-image" alt="Its a Login Page" loading="lazy">
-<figcaption>Its a Login Page</figcaption>
+<figure>
+  <img src="https://user-images.githubusercontent.com/1950768/150074748-d7434b57-d639-4264-ab1e-a66a1e05b54b.png" class="kg-image" alt="Its a Login Page" loading="lazy">
+  <figcaption>Its a Login Page</figcaption>
+</figure>
 ```
 
 
