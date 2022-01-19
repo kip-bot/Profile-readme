@@ -1,4 +1,4 @@
-# Postgres GIN Index in Rails
+# Postgres GIN Index in Rails By
 
 In a Rails application, adding an index to any database column is just a one-liner migration.
 
