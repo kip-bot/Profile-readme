@@ -141,4 +141,3 @@ Hope this article helps you to get introduced to GIN index of Postgres.
 - [Indexes on Rails application](https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/)
 - [PostgreSQL Doc: GiST and GIN Index Types](https://www.postgresql.org/docs/9.1/textsearch-indexes.html)
 - [GIN Index Implementation](https://www.postgresql.org/docs/current/gin-implementation.html)
-- [pg_tram Module](https://www.postgresql.org/docs/9.1/pgtrgm.html)
