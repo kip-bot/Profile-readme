@@ -8,7 +8,7 @@ In this blog we will look into how _Postgres_ works?
 
 In this blog we will look into how <b>Postgres</b> works?
 
-In this blog we will look into how <i>Postgres</i> works? Check [References](#References)
+In this blog we will look into how <i>Postgres</i> works? Check [References](#references)
 
 <ul>
   <li> Post 1 </li>
